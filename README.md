@@ -2,6 +2,8 @@
 - Author: Ricky Loynd - Senior Research Engineer at Microsoft (October 26, 2023)
 - Practice: Mr. Jack (June 02, 2024)
 - URL: https://microsoft.github.io/autogen/blog/2023/10/26/TeachableAgent
+- Code: https://github.com/microsoft/autogen/blob/main/test/agentchat/contrib/capabilities/chat_with_teachable_agent.py
+- Ref: https://microsoft.github.io/autogen/docs/Examples
 
 Conversational assistants based on LLMs can remember the current chat with the user, and can also demonstrate in-context learning of user teachings during the conversation. But the assistant's memories and learnings are lost once the chat is over, or when a single chat grows too long for the LLM to handle effectively. Then in subsequent chats the user is forced to repeat any necessary instructions over and over.<br>
 
