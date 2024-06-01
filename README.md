@@ -11,4 +11,5 @@ Teachability addresses these limitations by persisting user teachings across cha
 
 Any instantiated agent that inherits from ConversableAgent can be made teachable by instantiating a Teachability object and calling its add_to_agent(agent) method. In order to make effective decisions about memo storage and retrieval, the Teachability object calls an instance of TextAnalyzerAgent (another AutoGen agent) to identify and reformulate text as needed for remembering facts, preferences, and skills. Note that this adds extra LLM calls involving a relatively small number of tokens, which can add a few seconds to the time a user waits for each response.<br>
 
+### Screenshot:
 ![alt text](https://github.com/Mr-Jack-Tung/Teachable-Agents-AutoGen/blob/main/Screenshot%20_%20Teachable-Agents-AutoGen%20_%202024-06-02.jpg)
