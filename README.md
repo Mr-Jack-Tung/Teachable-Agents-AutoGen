@@ -1,6 +1,8 @@
 # Teachable Agents (AutoGen) with Ollama mistral
 - Author: Ricky Loynd - Senior Research Engineer at Microsoft (October 26, 2023)
 - Practice: Mr. Jack (June 02, 2024)
+- If you like what I do, give me a star ^^ ~> ⭐
+
 - URL: https://microsoft.github.io/autogen/blog/2023/10/26/TeachableAgent
 - Code: https://github.com/microsoft/autogen/blob/main/test/agentchat/contrib/capabilities/chat_with_teachable_agent.py
 - Ref: https://microsoft.github.io/autogen/docs/Examples
